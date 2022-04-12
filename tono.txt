@@ -2,5 +2,6 @@ ahoj tono
 new branch
 igorova zmena
 druha igorova zmena
-
 tonova zmena
+ 
+dalsia tonova zmena
